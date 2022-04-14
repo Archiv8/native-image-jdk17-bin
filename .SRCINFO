@@ -1,0 +1,45 @@
+pkgbase = native-image-jdk17-bin
+	pkgdesc = Plugin to turn GraalVM-based applications into native binary images (Java 17 version)
+	pkgver = 22.0.0.2
+	pkgrel = 1
+	url = https://github.com/oracle/graal
+	arch = x86_64
+	arch = aarch64
+	license = custom
+	depends = jdk17-graalvm-bin
+	source_x86_64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-amd64-22.0.0.2.jar
+	sha512sums_x86_64 = 09c580057c8387c8a34a5736ab8005460742d04aad4899fb6da1e9b3b7920db6839f43f6ca01e4b076506c9890871e3bce27a1a0adefc6c723f507adc22ce03d
+	source_aarch64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-aarch64-22.0.0.2.jar
+	sha512sums_aarch64 = 18edc4e7aef4dd39632a2c4768b64bcda35a509e690e1bdcbe8eeaedb03947c341681a5f19d7d6467afc73d771b4bad1de998d8cf66635fc35037eb47f5718a6
+
+pkgname = native-image-jdk17-bin
+pkgbase = native-image-jdk17-bin
+	pkgdesc = Plugin to turn GraalVM-based applications into native binary images (Java 17 version)
+	pkgver = 22.0.0.2
+	pkgrel = 1
+	url = https://github.com/oracle/graal
+	arch = x86_64
+	arch = aarch64
+	license = custom
+	depends = jdk17-graalvm-bin
+	source_x86_64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-amd64-22.0.0.2.jar
+	sha512sums_x86_64 = 09c580057c8387c8a34a5736ab8005460742d04aad4899fb6da1e9b3b7920db6839f43f6ca01e4b076506c9890871e3bce27a1a0adefc6c723f507adc22ce03d
+	source_aarch64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-aarch64-22.0.0.2.jar
+	sha512sums_aarch64 = 18edc4e7aef4dd39632a2c4768b64bcda35a509e690e1bdcbe8eeaedb03947c341681a5f19d7d6467afc73d771b4bad1de998d8cf66635fc35037eb47f5718a6
+
+pkgname = native-image-jdk17-bin
+pkgbase = native-image-jdk17-bin
+	pkgdesc = Plugin to turn GraalVM-based applications into native binary images (Java 17 version)
+	pkgver = 22.0.0.2
+	pkgrel = 1
+	url = https://github.com/oracle/graal
+	arch = x86_64
+	arch = aarch64
+	license = custom
+	depends = jdk17-graalvm-bin
+	source_x86_64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-amd64-22.0.0.2.jar
+	sha512sums_x86_64 = 09c580057c8387c8a34a5736ab8005460742d04aad4899fb6da1e9b3b7920db6839f43f6ca01e4b076506c9890871e3bce27a1a0adefc6c723f507adc22ce03d
+	source_aarch64 = https://github.com/graalvm/graalvm-ce-builds/releases/download/vm-22.0.0.2/native-image-installable-svm-java17-linux-aarch64-22.0.0.2.jar
+	sha512sums_aarch64 = 18edc4e7aef4dd39632a2c4768b64bcda35a509e690e1bdcbe8eeaedb03947c341681a5f19d7d6467afc73d771b4bad1de998d8cf66635fc35037eb47f5718a6
+
+pkgname = native-image-jdk17-bin
